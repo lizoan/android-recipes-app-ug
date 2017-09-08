@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">Spatullr</string>
+
+    <!-- Row recipes content -->
+    <string name="cook_time">COOK TIME</string>
+    <string name="minutes">MIN</string>
+    <string name="serve_for">FOR</string>
+    <string name="persons">PERSONS</string>
+
+    <!-- Titles page and menu -->
+    <string name="about">About</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+
+    <!-- Search text -->
+    <string name="search_result">Search Result</string>
+    <string name="search_hint">Type Recipe Name</string>
+
+    <!-- Favorite content -->
+    <string name="success_add_data">Recipe successfully added to favorites</string>
+
+    <!-- Sharing content -->
+    <string name="share_to">Share to</string>
+    <string name="subject">Hi, I just Try New Recipe</string>
+    <string name="message">You can download Spatullr for Android at </string>
+    <string name="intro_message">Hi, i just try new recipe, </string>
+    <string name="extra_message">. You can also try this recipe by downloading </string>
+    <string name="here">here:</string>
+
+    <!-- Google Play url. Change your.package.name with your own package name. -->
+    <string name="google_play_url">https://play.google.com/store/apps/details?id=your.package.name</string>
+
+    <!-- Banner ad id. Insert your own banner id, you can get banner id via admob. -->
+    <string name="banner_ad_unit_id">BANNER_AD_UNIT_ID</string>
+
+    <!-- Interstitial ad id. Insert your own interstitial id, you can get interstitial id via admob. -->
+    <string name="interstitial_ad_unit_id">INTERSTITIAL_AD_UNIT_ID</string>
+
+    <!-- Confirmation dialog -->
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="confirm_message">remove recipes from favorites?</string>
+    <string name="remove">REMOVE</string>
+    <string name="success_remove">Successfully removed recipe from favorites</string>
+    <string name="no_recipes">No recipes</string>
+
+    <!-- Pager titles in detail page -->
+    <string-array name="detail_pagers">
+        <item>SUMMARY</item>
+        <item>INGREDIENTS</item>
+        <item>DIRECTIONS</item>
+    </string-array>
+
+    <!-- Titles in about page -->
+    <string-array name="about_titles">
+        <item>Application Name</item>
+        <item>Build Version</item>
+        <item>Developer</item>
+        <item>Copyright</item>
+        <item>Tell a Friend</item>
+        <item>Rate</item>
+        <item>Review</item>
+    </string-array>
+
+    <!-- Summaries in about page -->
+    <string-array name="about_summaries">
+        <item>Spatullr</item>
+        <item>Version 3.0.3</item>
+        <item>Pongodev</item>
+        <item>Copyright 2014 pongodev. All rights reserved.</item>
+        <item>Tell your friend about this app.</item>
+        <item>Rate this app if you think it is awesome.</item>
+        <item>Give your feedback about our app.</item>
+    </string-array>
+</resources>

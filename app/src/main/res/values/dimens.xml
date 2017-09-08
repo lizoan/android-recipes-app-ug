@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- row dimen configuration -->
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="thumb_width">80dp</dimen>
+    <dimen name="thumb_height">80dp</dimen>
+    <dimen name="view_margin_left">110dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- content dimen configuration -->
+    <dimen name="image_height">250dp</dimen>
+    <dimen name="display_1">34sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="subhead">16sp</dimen>
+    <dimen name="body">14sp</dimen>
+    <dimen name="line_spacing">5dp</dimen>
+    <dimen name="progress_width">32dp</dimen>
+    <dimen name="progress_height">32dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+</resources>

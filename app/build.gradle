@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.pongodev.recipesapp"
+        minSdkVersion 11
+        targetSdkVersion 21
+        versionCode 5
+        versionName "3.0.3"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    // Main libraries, you always need this libraries in your project. do not remove them.
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.google.android.gms:play-services:6.5.87'
+
+    // Important library to create material design. do not remove this.
+    compile project(':materialDesign')
+
+    // Library to create tabbar
+    compile 'com.jpardogo.materialtabstrip:library:1.0.6'
+
+    // Library to create ripple effect. work together with materialDesign library.
+    compile 'com.github.traex.rippleeffect:library:1.2.2'
+
+    // Library to create rounded, circle, and any shape image.
+    compile 'com.makeramen:roundedimageview:1.4.0'
+
+    // Library load lazy images.
+    compile 'com.squareup.picasso:picasso:2.4.0'
+
+    // Library to create simple list.
+    compile 'com.android.support:recyclerview-v7:21.0.0'
+
+    // Library to create complex clickable list.
+    compile 'com.android.support:cardview-v7:21.0.3'
+
+    // Library to create material dialog.
+    compile 'com.afollestad:material-dialogs:0.6.0'
+
+    // Library to create animation imageview.
+    compile 'com.flaviofaria:kenburnsview:1.0.5'
+
+}

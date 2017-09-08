@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app main color (toolbar color) configuration -->
+    <color name="color_primary">#D32F2F</color>
+    <color name="color_primary_dark">#C62828</color>
+    <color name="text_color_primary">#FFFFFF</color>
+    <color name="color_accent">#FFFFFF</color>
+
+    <!-- row color configuration -->
+    <color name="row_background_color">#FFFFFF</color>
+    <color name="text_row_title_color">#212121</color>
+    <color name="text_row_subtitle_color">#727272</color>
+    <color name="divider_color">#B6B6B6</color>
+
+    <!-- content color configuration -->
+    <color name="text_title_color">#FFFFFF</color>
+    <color name="text_subtitle_color">#FFFFFF</color>
+    <color name="text_content_color">#212121</color>
+    <color name="detail_background_color">#FFFFFF</color>
+    <color name="tab_background_color">#E6E8E9</color>
+    <color name="list_background_color">#E6E8E9</color>
+    <color name="background_gradient_color_start">#00000000</color>
+    <color name="background_gradient_color_end">#b4000000</color>
+
+
+</resources>
