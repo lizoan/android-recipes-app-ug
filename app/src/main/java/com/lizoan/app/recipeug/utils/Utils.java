@@ -1,4 +1,4 @@
-package com.pongodev.recipesapp.utils;
+package com.lizoan.app.recipeug.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

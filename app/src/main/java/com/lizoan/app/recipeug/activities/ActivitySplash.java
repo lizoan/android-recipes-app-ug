@@ -1,11 +1,12 @@
 /*
 * Copyright (c) 2015 Pongodev. All Rights Reserved.
 */
-package com.pongodev.recipesapp.activities;
+package com.lizoan.app.recipeug.activities;
 
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;

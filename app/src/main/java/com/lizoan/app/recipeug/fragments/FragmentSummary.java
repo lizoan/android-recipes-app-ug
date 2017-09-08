@@ -1,4 +1,4 @@
-package com.pongodev.recipesapp.fragments;
+package com.lizoan.app.recipeug.fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.utils.Utils;
+import com.lizoan.app.recipeug.utils.Utils;
 
 
 public class FragmentSummary extends Fragment {

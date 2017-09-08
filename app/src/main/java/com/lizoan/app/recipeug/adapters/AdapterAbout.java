@@ -1,7 +1,7 @@
 /*
 * Copyright (C) 2015 Pongodev
 */
-package com.pongodev.recipesapp.adapters;
+package com.lizoan.app.recipeug.adapters;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.listeners.OnTapAboutListener;
+import com.lizoan.app.recipeug.listeners.OnTapAboutListener;
 
 import java.util.ArrayList;
 

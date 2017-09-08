@@ -12,7 +12,7 @@
         android:id="@+id/item_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.pongodev.recipesapp.activities.ActivityHome"
+        tools:context="com.lizoan.app.recipeug.activities.ActivityHome"
         tools:ignore="MergeRootFrame"
         android:layout_below="@+id/toolbar"/>
 </RelativeLayout>

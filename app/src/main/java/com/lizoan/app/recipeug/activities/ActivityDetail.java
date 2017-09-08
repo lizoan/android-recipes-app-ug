@@ -1,7 +1,7 @@
 /*
 * Copyright (c) 2015 Pongodev. All Rights Reserved.
 */
-package com.pongodev.recipesapp.activities;
+package com.lizoan.app.recipeug.activities;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -26,12 +26,12 @@ import com.gc.materialdesign.widgets.SnackBar;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.adapters.AdapterDetailPager;
-import com.pongodev.recipesapp.fragments.FragmentInfo;
-import com.pongodev.recipesapp.fragments.FragmentSummary;
-import com.pongodev.recipesapp.utils.DBHelperFavorites;
-import com.pongodev.recipesapp.utils.DBHelperRecipes;
-import com.pongodev.recipesapp.utils.Utils;
+import com.lizoan.app.recipeug.adapters.AdapterDetailPager;
+import com.lizoan.app.recipeug.fragments.FragmentInfo;
+import com.lizoan.app.recipeug.fragments.FragmentSummary;
+import com.lizoan.app.recipeug.utils.DBHelperFavorites;
+import com.lizoan.app.recipeug.utils.DBHelperRecipes;
+import com.lizoan.app.recipeug.utils.Utils;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;

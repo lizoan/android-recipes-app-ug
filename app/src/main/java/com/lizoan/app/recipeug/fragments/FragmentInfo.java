@@ -1,15 +1,14 @@
-package com.pongodev.recipesapp.fragments;
+package com.lizoan.app.recipeug.fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.webkit.WebSettings;
 import android.webkit.WebView;
 
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.utils.Utils;
+import com.lizoan.app.recipeug.utils.Utils;
 
 
 public class FragmentInfo extends Fragment {

@@ -1,20 +1,19 @@
 /*
 * Copyright (c) 2015 Pongodev. All Rights Reserved.
 */
-package com.pongodev.recipesapp.activities;
+package com.lizoan.app.recipeug.activities;
 
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.fragments.FragmentAbout;
+import com.lizoan.app.recipeug.fragments.FragmentAbout;
 
 /**
  * A {@link PreferenceActivity} that presents a set of application settings. On

@@ -15,7 +15,7 @@
         android:divider="?android:attr/dividerHorizontal"
         android:orientation="horizontal"
         android:showDividers="middle"
-        tools:context="com.pongodev.recipesapp.activities.ActivityHome"
+        tools:context="com.lizoan.app.recipeug.activities.ActivityHome"
         android:layout_below="@+id/toolbar">
 
         <!--
@@ -31,14 +31,14 @@
 
         <fragment
             android:id="@+id/item_list"
-            android:name="com.pongodev.recipesapp.fragments.FragmentCategories"
+            android:name="com.lizoan.app.recipeug.fragments.FragmentCategories"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <fragment
             android:id="@+id/item_detail_container"
-            android:name="com.pongodev.recipesapp.fragments.FragmentRecipes"
+            android:name="com.lizoan.app.recipeug.fragments.FragmentRecipes"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="3" />

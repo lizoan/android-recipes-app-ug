@@ -1,7 +1,7 @@
 /*
 * Copyright (c) 2015 Pongodev. All Rights Reserved.
 */
-package com.pongodev.recipesapp.adapters;
+package com.lizoan.app.recipeug.adapters;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import com.makeramen.RoundedImageView;
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.listeners.OnTapListener;
+import com.lizoan.app.recipeug.listeners.OnTapListener;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

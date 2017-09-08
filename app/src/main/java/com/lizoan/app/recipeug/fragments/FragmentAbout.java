@@ -1,4 +1,4 @@
-package com.pongodev.recipesapp.fragments;
+package com.lizoan.app.recipeug.fragments;
 
 
 import android.app.Activity;
@@ -12,9 +12,9 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.activities.ActivityAbout;
-import com.pongodev.recipesapp.adapters.AdapterAbout;
-import com.pongodev.recipesapp.listeners.OnTapAboutListener;
+import com.lizoan.app.recipeug.activities.ActivityAbout;
+import com.lizoan.app.recipeug.adapters.AdapterAbout;
+import com.lizoan.app.recipeug.listeners.OnTapAboutListener;
 
 import java.util.ArrayList;
 

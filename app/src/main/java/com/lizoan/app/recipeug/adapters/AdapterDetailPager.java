@@ -1,7 +1,7 @@
 /*
 * Copyright (C) 2015 Pongodev
 */
-package com.pongodev.recipesapp.adapters;
+package com.lizoan.app.recipeug.adapters;
 
 import android.content.Context;
 import android.content.res.Resources;

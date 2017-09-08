@@ -1,4 +1,4 @@
-package com.pongodev.recipesapp.fragments;
+package com.lizoan.app.recipeug.fragments;
 
 
 import android.app.Activity;
@@ -15,11 +15,11 @@ import android.widget.TextView;
 import com.gc.materialdesign.views.ProgressBarCircularIndeterminate;
 import com.google.android.gms.ads.AdView;
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.adapters.AdapterRecipes;
-import com.pongodev.recipesapp.listeners.OnTapListener;
-import com.pongodev.recipesapp.utils.DBHelperFavorites;
-import com.pongodev.recipesapp.utils.DBHelperRecipes;
-import com.pongodev.recipesapp.utils.Utils;
+import com.lizoan.app.recipeug.adapters.AdapterRecipes;
+import com.lizoan.app.recipeug.listeners.OnTapListener;
+import com.lizoan.app.recipeug.utils.DBHelperFavorites;
+import com.lizoan.app.recipeug.utils.DBHelperRecipes;
+import com.lizoan.app.recipeug.utils.Utils;
 
 import java.io.IOException;
 import java.util.ArrayList;

@@ -1,7 +1,7 @@
 /*
 * Copyright (c) 2015 Pongodev. All Rights Reserved.
 */
-package com.pongodev.recipesapp.activities;
+package com.lizoan.app.recipeug.activities;
 
 import android.app.SearchManager;
 import android.content.Context;
@@ -15,9 +15,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.pongodev.recipesapp.R;
-import com.pongodev.recipesapp.fragments.FragmentCategories;
-import com.pongodev.recipesapp.fragments.FragmentRecipes;
-import com.pongodev.recipesapp.utils.Utils;
+import com.lizoan.app.recipeug.fragments.FragmentCategories;
+import com.lizoan.app.recipeug.fragments.FragmentRecipes;
+import com.lizoan.app.recipeug.utils.Utils;
 
 
 /**
