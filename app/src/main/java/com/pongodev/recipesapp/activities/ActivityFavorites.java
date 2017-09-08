@@ -6,7 +6,7 @@ package com.pongodev.recipesapp.activities;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
@@ -14,7 +14,7 @@ import com.pongodev.recipesapp.R;
 import com.pongodev.recipesapp.fragments.FragmentRecipes;
 import com.pongodev.recipesapp.utils.Utils;
 
-public class ActivityFavorites extends ActionBarActivity implements FragmentRecipes.OnRecipeSelectedListener {
+public class ActivityFavorites extends AppCompatActivity implements FragmentRecipes.OnRecipeSelectedListener {
 
 
     @Override

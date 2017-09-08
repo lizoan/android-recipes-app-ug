@@ -6,7 +6,6 @@ package com.pongodev.recipesapp.activities;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
@@ -14,7 +13,7 @@ import android.view.WindowManager;
 import com.pongodev.recipesapp.R;
 
 
-public class ActivitySplash extends ActionBarActivity {
+public class ActivitySplash extends AppCompatActivity {
 
     // Create variable to handle progress and set it to 0.
     private int progress = 0;

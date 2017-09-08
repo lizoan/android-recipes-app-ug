@@ -8,7 +8,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.TypedValue;
 import android.view.Menu;
@@ -39,7 +39,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class ActivityDetail extends ActionBarActivity implements View.OnClickListener {
+public class ActivityDetail extends AppCompatActivity implements View.OnClickListener {
 
     // Create view objects.
     private KenBurnsView imgRecipe;

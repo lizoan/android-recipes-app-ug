@@ -8,7 +8,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.provider.SearchRecentSuggestions;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.Toast;
@@ -18,7 +18,7 @@ import com.pongodev.recipesapp.fragments.FragmentRecipes;
 import com.pongodev.recipesapp.providers.ProviderSuggestion;
 import com.pongodev.recipesapp.utils.Utils;
 
-public class ActivitySearch extends ActionBarActivity implements FragmentRecipes.OnRecipeSelectedListener {
+public class ActivitySearch extends AppCompatActivity implements FragmentRecipes.OnRecipeSelectedListener {
 
     private String keyword;
 

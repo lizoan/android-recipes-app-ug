@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
@@ -26,7 +27,7 @@ import com.pongodev.recipesapp.fragments.FragmentAbout;
  * href="http://developer.android.com/guide/topics/ui/settings.html">Settings
  * API Guide</a> for more information on developing a Settings UI.
  */
-public class ActivityAbout extends ActionBarActivity implements FragmentAbout.OnItemSelectedListener {
+public class ActivityAbout extends AppCompatActivity implements FragmentAbout.OnItemSelectedListener {
 
     // Create array variables to store about content.
     public static String[] titles, summaries;
