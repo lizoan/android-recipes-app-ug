@@ -13,7 +13,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.pongodev.recipesapp.R;
 import com.lizoan.app.recipeug.fragments.FragmentRecipes;
 import com.lizoan.app.recipeug.providers.ProviderSuggestion;
 import com.lizoan.app.recipeug.utils.Utils;

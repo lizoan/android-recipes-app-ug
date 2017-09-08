@@ -1,5 +1,6 @@
 package com.lizoan.app.recipeug.utils;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.view.View;
@@ -8,7 +9,6 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
-import com.pongodev.recipesapp.R;
 
 public class Utils {
 
@@ -33,7 +33,8 @@ public class Utils {
 
     // Configurable parameters. you can configure these parameter.
     // Set database path. It must be similar with package name.
-    public static final String ARG_DATABASE_PATH = "/data/data/com.pongodev.recipesapp/databases/";
+    @SuppressLint("SdCardPath")
+    public static final String ARG_DATABASE_PATH = "/data/data/com.lizoan.app.recipeug/databases/";
     // For every recipe detail you want to display interstitial ad
     public static final int ARG_TRIGGER_VALUE = 3;
     // Admob visibility parameter. set 1 to show admob and 0 to hide.

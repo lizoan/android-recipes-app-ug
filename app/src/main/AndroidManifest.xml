@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.lizoan.app.recipeug" >
 
     <!-- Include required permissions for Google Mobile Ads to run -->
@@ -42,7 +43,8 @@
             android:label="@string/search_result"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
-            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome">
+            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome"
+            tools:ignore="UnusedAttribute">
             <intent-filter>
                 <action android:name="android.intent.action.SEARCH" />
             </intent-filter>
@@ -65,7 +67,8 @@
             android:name="com.lizoan.app.recipeug.activities.ActivityDetail"
             android:label=""
             android:screenOrientation="portrait"
-            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome">
+            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome"
+            tools:ignore="UnusedAttribute">
             <!-- Parent activity meta-data to support 4.0 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -75,7 +78,8 @@
             android:name="com.lizoan.app.recipeug.activities.ActivityFavorites"
             android:label="@string/favorites"
             android:screenOrientation="portrait"
-            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome">
+            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome"
+            tools:ignore="UnusedAttribute">
             <!-- Parent activity meta-data to support 4.0 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -86,7 +90,8 @@
             android:name="com.lizoan.app.recipeug.activities.ActivityAbout"
             android:label="@string/about"
             android:screenOrientation="portrait"
-            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome">
+            android:parentActivityName="com.lizoan.app.recipeug.activities.ActivityHome"
+            tools:ignore="UnusedAttribute">
             <!-- Parent activity meta-data to support 4.0 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

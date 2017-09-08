@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Application name -->
-    <string name="app_name">Emere</string>
+    <string name="app_name">Emere (Ugandan Cuisines)</string>
 
     <!-- Row recipes content -->
     <string name="cook_time">COOK TIME</string>
@@ -68,10 +68,10 @@
 
     <!-- Summaries in about page -->
     <string-array name="about_summaries">
-        <item>Spatullr</item>
+        <item>Emere</item>
         <item>Version 3.0.3</item>
         <item>Pongodev</item>
-        <item>Copyright 2014 pongodev. All rights reserved.</item>
+        <item>Copyright 2017 lizoan.com. All rights reserved.</item>
         <item>Tell your friend about this app.</item>
         <item>Rate this app if you think it is awesome.</item>
         <item>Give your feedback about our app.</item>

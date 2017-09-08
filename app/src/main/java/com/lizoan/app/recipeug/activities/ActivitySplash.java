@@ -11,7 +11,6 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.pongodev.recipesapp.R;
 
 
 public class ActivitySplash extends AppCompatActivity {

@@ -11,7 +11,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.makeramen.RoundedImageView;
-import com.pongodev.recipesapp.R;
 import com.lizoan.app.recipeug.listeners.OnTapListener;
 import com.squareup.picasso.Picasso;
 

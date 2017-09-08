@@ -14,7 +14,6 @@ import android.widget.TextView;
 
 import com.gc.materialdesign.views.ProgressBarCircularIndeterminate;
 import com.google.android.gms.ads.AdView;
-import com.pongodev.recipesapp.R;
 import com.lizoan.app.recipeug.adapters.AdapterRecipes;
 import com.lizoan.app.recipeug.listeners.OnTapListener;
 import com.lizoan.app.recipeug.utils.DBHelperFavorites;

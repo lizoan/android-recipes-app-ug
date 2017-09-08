@@ -25,7 +25,6 @@ import com.gc.materialdesign.views.ProgressBarCircularIndeterminate;
 import com.gc.materialdesign.widgets.SnackBar;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
-import com.pongodev.recipesapp.R;
 import com.lizoan.app.recipeug.adapters.AdapterDetailPager;
 import com.lizoan.app.recipeug.fragments.FragmentInfo;
 import com.lizoan.app.recipeug.fragments.FragmentSummary;
