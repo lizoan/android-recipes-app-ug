@@ -7,7 +7,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.pongodev.recipesapp.R;
 import com.lizoan.app.recipeug.utils.Utils;
 
 
