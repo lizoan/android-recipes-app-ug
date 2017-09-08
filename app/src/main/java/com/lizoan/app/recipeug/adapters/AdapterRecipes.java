@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.lizoan.app.recipeug.R;
 import com.makeramen.RoundedImageView;
 import com.lizoan.app.recipeug.listeners.OnTapListener;
 import com.squareup.picasso.Picasso;

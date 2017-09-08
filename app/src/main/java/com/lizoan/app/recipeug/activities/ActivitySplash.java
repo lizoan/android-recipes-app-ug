@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
+import com.lizoan.app.recipeug.R;
 
 
 public class ActivitySplash extends AppCompatActivity {

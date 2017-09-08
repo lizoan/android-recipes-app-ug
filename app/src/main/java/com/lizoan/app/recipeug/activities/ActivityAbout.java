@@ -12,6 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
+import com.lizoan.app.recipeug.R;
 import com.lizoan.app.recipeug.fragments.FragmentAbout;
 
 /**

@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.lizoan.app.recipeug.R;
 import com.lizoan.app.recipeug.activities.ActivityAbout;
 import com.lizoan.app.recipeug.adapters.AdapterAbout;
 import com.lizoan.app.recipeug.listeners.OnTapAboutListener;

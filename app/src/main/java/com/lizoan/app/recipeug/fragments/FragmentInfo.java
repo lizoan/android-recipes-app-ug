@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
 
+import com.lizoan.app.recipeug.R;
 import com.lizoan.app.recipeug.utils.Utils;
 
 

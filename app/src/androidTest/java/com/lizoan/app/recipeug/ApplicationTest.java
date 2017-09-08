@@ -1,4 +1,4 @@
-package com.pongodev.recipesapp;
+package com.lizoan.app.recipeug;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

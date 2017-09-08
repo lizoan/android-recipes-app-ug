@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.gc.materialdesign.views.ProgressBarCircularIndeterminate;
+import com.lizoan.app.recipeug.R;
 import com.lizoan.app.recipeug.adapters.AdapterCategories;
 import com.lizoan.app.recipeug.listeners.OnTapListener;
 import com.lizoan.app.recipeug.utils.DBHelperRecipes;
